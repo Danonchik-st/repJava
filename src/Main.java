@@ -17,7 +17,7 @@ public class Main {
 //    try {
 //      html = NetworkService.getStringFromURL(spec, code);
 //    } catch (IOException | URISyntaxException e) {
-//      // TODO Auto-generated catch block
+//
 //      e.printStackTrace();
 //    }
 //
